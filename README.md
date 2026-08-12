@@ -39,6 +39,20 @@ The application also provides informational recommendations associated with the 
 
 ---
 
+## 🖥️ Application Preview
+
+### Home Page
+
+![Home Page](screenshots/Screenshot%202026-08-13%20012820.png)
+
+### Disease Prediction
+
+![About Page](screenshots/Screenshot%202026-08-13%20012922.png)
+
+### About Page
+
+![Disease Prediction](screenshots/Screenshot%202026-08-13%20012835.png)
+
 ## 🧠 Model Pipeline
 
 ```text
