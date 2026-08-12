@@ -1,0 +1,6 @@
+# Python 3.10 is required for the TensorFlow 2.10 environment used by this project.
+tensorflow==2.10.0
+numpy==1.24.3
+protobuf==3.19.6
+opencv-python-headless==4.8.1.78
+streamlit==1.17.0
