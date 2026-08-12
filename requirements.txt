@@ -4,3 +4,4 @@ numpy==1.24.3
 protobuf==3.19.6
 opencv-python-headless==4.8.1.78
 streamlit==1.17.0
+altair==4.2.2
